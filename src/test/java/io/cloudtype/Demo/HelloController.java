@@ -8,6 +8,6 @@ public class HelloController {
 
     @GetMapping("/")
     public String helloController() {
-        return "Hello Test 2";
+        return "spring boot.. by c type";
     }
 }
